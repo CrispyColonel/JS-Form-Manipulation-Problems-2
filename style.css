@@ -1,0 +1,20 @@
+input{
+  margin-bottom: 15px;
+}
+
+.lostFocus{
+  background-color:lightgray;
+}
+
+.hasFocus{
+  background-color:blue;
+  color:white;
+}
+
+.error{
+  background-color: lightcoral;
+}
+
+span{
+  color: red;
+}
